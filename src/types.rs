@@ -1,5 +1,3 @@
-//! This module contains the types for use by the tweet library. It implements Display, so you can
-//! print it out easily. 
 
 extern crate colored;
 
